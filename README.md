@@ -3,10 +3,9 @@
 ### Hi there 👋, welcome!
 
 - I am Arman;
-<p>
-<span><a href="https://github.com/imarman"><img src="https://img.shields.io/github/followers/imarman.svg?label=GitHub&style=social" alt="GitHub"></a></span><span><a href="https://github.com/imarman"><img src="https://visitor-badge.glitch.me/badge?page_id=imarman" alt="GitHub"></a></span>
+
   
-## 🧰 Languages and Tools:
+## 🛠 Languages and Tools:
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" height="40" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java" height="40" style="vertical-align:top; margin:4px">
@@ -26,6 +25,6 @@
   <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
 </p>
 
-### Wait for you
+### 🥳 Wait for you
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
