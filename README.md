@@ -4,7 +4,7 @@
 
 - I am Arman.
 - A self-taught back-end programmer 🚀
-- Working hard to become a full-stack engineer 🔥
+- Strive to become a full-stack engineer 🔥
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to make friends. so if you have any ideas, we can discuss together!</b></em>
 
